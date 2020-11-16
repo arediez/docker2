@@ -26,9 +26,7 @@
         ]
       },
       "access_key_id": "$AWSACCESS",
-      "secret_access_key": {
-        "secure": "$AWSSECRET"
-      },
+      "secret_access_key": "$AWSSECRET",
       "bucket": "elasticbeanstalk-ap-southeast-1-592656473699"
     }
   ]
